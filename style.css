@@ -1,0 +1,54 @@
+body{
+    font-family: sans-serif;
+    background: #fff9a9;
+}
+.main{
+    margin: 90px;
+    border: 1px solid black;
+    background: #ffff;
+}
+
+#three{
+    margin: 30px;
+}
+.my-label{
+    margin: 11px;
+}
+area{
+    margin-top: 10px;
+}
+h2{
+    margin-left: 10px;
+    text-align: center;
+}
+.one{
+margin-bottom:1.5%;
+}
+.two{
+    margin-bottom: 1.5%;
+}
+#four{
+    margin-bottom: 1%;
+}
+.sec-fieldset{
+    margin: 30px;
+}
+.set-fieldset{
+    margin: 30px;
+}
+.type-fieldset{
+    margin:30px;
+}
+.fir{
+    margin-left: 10px;
+}
+body{
+    font-size: larger;
+    font-weight: 400;
+}
+.file{
+    display: none;
+}
+.label{
+    background-color: red
+}
